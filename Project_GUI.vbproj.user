@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AcademicYearForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AccountCreateDelete.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AccountForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminHome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChoosePeriod.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Courses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CourseSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateAcademicYearForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EnrollmentForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EnrollTab.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilterSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilterSearch2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Profile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrationApproval.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentHome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudyLoad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
